@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\work\WebDeploy\LowStockDashboard</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/LinnworksAPI.dll">
+      <publishTime>03/03/2016 20:54:32</publishTime>
+    </File>
+    <File Include="bin/LowStockDashboard.dll">
+      <publishTime>03/04/2016 10:59:10</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>02/09/2016 05:59:22</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>02/09/2016 05:59:18</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>02/09/2016 05:59:18</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>02/09/2016 05:59:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>02/09/2016 05:59:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>02/09/2016 05:59:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>02/09/2016 05:59:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>02/09/2016 05:59:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>02/09/2016 05:59:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>02/09/2016 05:59:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>02/09/2016 05:59:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>02/09/2016 05:59:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>02/09/2016 05:59:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>02/09/2016 05:59:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>02/09/2016 05:59:22</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Formatting.dll">
+      <publishTime>02/09/2016 05:59:21</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>02/09/2016 05:59:18</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.dll">
+      <publishTime>02/09/2016 05:59:21</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.WebHost.dll">
+      <publishTime>02/09/2016 05:59:22</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>02/09/2016 05:59:18</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>02/09/2016 05:59:18</publishTime>
+    </File>
+    <File Include="bin/System.Web.Webpages.Deployment.dll">
+      <publishTime>02/09/2016 05:59:18</publishTime>
+    </File>
+    <File Include="bin/System.Web.Webpages.dll">
+      <publishTime>02/09/2016 05:59:18</publishTime>
+    </File>
+    <File Include="bin/System.Web.Webpages.Razor.dll">
+      <publishTime>02/09/2016 05:59:18</publishTime>
+    </File>
+    <File Include="css/angular-chart.min.css">
+      <publishTime>12/07/2015 09:44:50</publishTime>
+    </File>
+    <File Include="css/bootstrap-theme.min.css">
+      <publishTime>02/04/2016 20:04:38</publishTime>
+    </File>
+    <File Include="css/bootstrap.min.css">
+      <publishTime>02/04/2016 20:04:38</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.eot">
+      <publishTime>02/14/2016 21:13:39</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.svg">
+      <publishTime>02/14/2016 21:13:39</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>02/14/2016 21:13:39</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff">
+      <publishTime>02/14/2016 21:13:39</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff2">
+      <publishTime>02/14/2016 21:13:39</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>02/09/2016 05:59:22</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>02/09/2016 05:59:22</publishTime>
+    </File>
+    <File Include="Scripts/angular-chart.min.js">
+      <publishTime>12/07/2015 09:44:50</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.min.js">
+      <publishTime>02/04/2016 20:29:02</publishTime>
+    </File>
+    <File Include="Scripts/Chart.min.js">
+      <publishTime>02/05/2016 22:44:45</publishTime>
+    </File>
+    <File Include="Scripts/loadingoverlay.min.js">
+      <publishTime>02/07/2016 22:14:43</publishTime>
+    </File>
+    <File Include="Scripts/ui-bootstrap-tpls-1.1.2.min.js">
+      <publishTime>02/04/2016 19:47:29</publishTime>
+    </File>
+    <File Include="SPA/ApiService.js">
+      <publishTime>02/15/2016 10:10:43</publishTime>
+    </File>
+    <File Include="SPA/App.js">
+      <publishTime>03/04/2016 10:29:05</publishTime>
+    </File>
+    <File Include="SPA/Controller/GridController.js">
+      <publishTime>03/04/2016 10:54:33</publishTime>
+    </File>
+    <File Include="SPA/Controller/MainController.js">
+      <publishTime>02/15/2016 10:15:04</publishTime>
+    </File>
+    <File Include="SPA/Controller/ViewProductController.js">
+      <publishTime>02/09/2016 06:48:30</publishTime>
+    </File>
+    <File Include="SPA/Views/Grid.html">
+      <publishTime>02/15/2016 10:00:57</publishTime>
+    </File>
+    <File Include="SPA/Views/ViewProductWindow.html">
+      <publishTime>02/09/2016 06:49:01</publishTime>
+    </File>
+    <File Include="Views/Home/Index.cshtml">
+      <publishTime>02/15/2016 10:14:32</publishTime>
+    </File>
+    <File Include="Views/Home/NotAuthorized.cshtml">
+      <publishTime>03/04/2016 10:26:13</publishTime>
+    </File>
+    <File Include="Views/web.config">
+      <publishTime>02/09/2016 05:59:17</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>03/04/2016 10:59:10</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
